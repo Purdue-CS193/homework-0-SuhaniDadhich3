@@ -9,14 +9,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. 
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block```
 
-# This is
-## my homework
-### for CS-193
+# Suhani Dadhich's First CS193 Homework
 
-- It's Fun
-- It's also Pretty Cool!
+- CS193 is fun
+- CS193 is giving me more experience with the tools I'll probably need someday
 
 1. This is a
 2. Numbered list
@@ -24,7 +22,7 @@ Syntax highlighted code block
 **Bold text** and _Italic Text_ and `Code` text are different formatting styles!
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
